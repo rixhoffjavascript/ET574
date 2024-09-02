@@ -1,1 +1,2 @@
 Some new changes
+Conflicting change on feature branch
